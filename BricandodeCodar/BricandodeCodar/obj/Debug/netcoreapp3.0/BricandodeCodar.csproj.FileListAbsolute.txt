@@ -1,0 +1,11 @@
+C:\Users\woman\Desktop\BricandodeCodar\BricandodeCodar\bin\Debug\netcoreapp3.0\BricandodeCodar.exe
+C:\Users\woman\Desktop\BricandodeCodar\BricandodeCodar\bin\Debug\netcoreapp3.0\BricandodeCodar.deps.json
+C:\Users\woman\Desktop\BricandodeCodar\BricandodeCodar\bin\Debug\netcoreapp3.0\BricandodeCodar.runtimeconfig.json
+C:\Users\woman\Desktop\BricandodeCodar\BricandodeCodar\bin\Debug\netcoreapp3.0\BricandodeCodar.runtimeconfig.dev.json
+C:\Users\woman\Desktop\BricandodeCodar\BricandodeCodar\bin\Debug\netcoreapp3.0\BricandodeCodar.dll
+C:\Users\woman\Desktop\BricandodeCodar\BricandodeCodar\bin\Debug\netcoreapp3.0\BricandodeCodar.pdb
+C:\Users\woman\Desktop\BricandodeCodar\BricandodeCodar\obj\Debug\netcoreapp3.0\BricandodeCodar.csprojAssemblyReference.cache
+C:\Users\woman\Desktop\BricandodeCodar\BricandodeCodar\obj\Debug\netcoreapp3.0\BricandodeCodar.AssemblyInfoInputs.cache
+C:\Users\woman\Desktop\BricandodeCodar\BricandodeCodar\obj\Debug\netcoreapp3.0\BricandodeCodar.AssemblyInfo.cs
+C:\Users\woman\Desktop\BricandodeCodar\BricandodeCodar\obj\Debug\netcoreapp3.0\BricandodeCodar.dll
+C:\Users\woman\Desktop\BricandodeCodar\BricandodeCodar\obj\Debug\netcoreapp3.0\BricandodeCodar.pdb

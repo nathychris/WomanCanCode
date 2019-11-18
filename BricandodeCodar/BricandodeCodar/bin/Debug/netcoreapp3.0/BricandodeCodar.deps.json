@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "BricandodeCodar/1.0.0": {
+        "runtime": {
+          "BricandodeCodar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BricandodeCodar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
